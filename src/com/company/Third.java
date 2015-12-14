@@ -11,7 +11,7 @@ public class Third {
 
         if (e == 1)
         {
-            System.out.println("привет");
+            System.out.println("РїСЂРёРІРµС‚");
         }
 
 
